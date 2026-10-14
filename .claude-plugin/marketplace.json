@@ -1,12 +1,12 @@
 {
   "name": "60x",
-  "description": "60x AI Brain plugins",
+  "description": "60x plugins",
   "owner": { "name": "60x", "email": "fergus@60x.ai" },
   "plugins": [
     {
-      "name": "ai-brain",
-      "source": "./plugins/ai-brain",
-      "description": "Search and write to your 60x AI Brain knowledge graph"
+      "name": "60x",
+      "source": "./plugins/60x",
+      "description": "Search and write to your 60x knowledge graph"
     }
   ]
 }

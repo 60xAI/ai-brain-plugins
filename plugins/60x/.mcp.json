@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "ai-brain": {
+    "60x": {
       "type": "http",
       "url": "https://ai-brain-backend-prod-673349455401.europe-west1.run.app/mcp"
     }

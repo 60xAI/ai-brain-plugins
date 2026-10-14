@@ -3,8 +3,8 @@
   "interface": { "displayName": "60x" },
   "plugins": [
     {
-      "name": "ai-brain",
-      "source": { "source": "local", "path": "./plugins/ai-brain" },
+      "name": "60x",
+      "source": { "source": "local", "path": "./plugins/60x" },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
       "category": "Productivity"
     }
