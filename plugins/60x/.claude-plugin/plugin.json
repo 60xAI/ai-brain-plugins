@@ -1,7 +1,9 @@
 {
   "name": "60x",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Search and write to your 60x knowledge graph",
-  "author": { "name": "60x" },
+  "author": {
+    "name": "60x"
+  },
   "homepage": "https://aibrain.60x.ai/profile/mcp-connections"
 }
