@@ -3,6 +3,8 @@
 Connects Claude Code and Codex to the 60x MCP server. Sign-in is OAuth;
 no API key is needed.
 
+Logo and composer assets retain the original colours, with separate light and dark theme files.
+
 **Claude Code**
 
 ```bash
