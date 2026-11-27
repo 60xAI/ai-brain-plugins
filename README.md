@@ -22,3 +22,12 @@ codex mcp login 60x
 ```
 
 Claude (web/desktop) and ChatGPT instructions: https://aibrain.60x.ai/profile/mcp-connections
+
+## Marketplace validation
+
+For each client, check that the marketplace and plugin JSON parse and that
+local package and asset paths resolve. Each validation check must pass on its
+own and in any order or shard. Declare the fixtures and files each check needs,
+including generated files it uses indirectly. Reuse existing fixtures and
+helpers where available. When adding or changing a dependency, run the
+affected check by itself from a clean checkout.
